@@ -1,2 +1,2 @@
-# flexbox
-Curso de Flexbox
+# Curso de flexbox
+Curso de Flexbox da Alura
